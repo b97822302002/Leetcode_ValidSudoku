@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Leetcode_ValidSudoku", "Leetcode_ValidSudoku.pyproj", "{52AC719D-CCBF-411C-8761-DB20B09328CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AC719D-CCBF-411C-8761-DB20B09328CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AC719D-CCBF-411C-8761-DB20B09328CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E5C6C9E-976F-4A22-9CBC-982BDA6526C5}
+	EndGlobalSection
+EndGlobal
